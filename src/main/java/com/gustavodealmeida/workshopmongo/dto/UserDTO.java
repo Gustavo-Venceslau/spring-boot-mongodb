@@ -1,4 +1,4 @@
-package com.gustavodealmeida.workshopmongo.repositories;
+package com.gustavodealmeida.workshopmongo.dto;
 
 import com.gustavodealmeida.workshopmongo.domain.User;
 
